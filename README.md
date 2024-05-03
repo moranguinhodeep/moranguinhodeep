@@ -1,16 +1,13 @@
-### Hi there 👋
+### Bem vindos ao meu perfil, sou a Laís Aparecida💙
 
-<!--
-**moranguinhodeep/moranguinhodeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Meu nome é Laís Aparecida 
 
-Here are some ideas to get you started:
+-Estou estudando na Alura 
+EStou me desinvolvendo na linguagem javascript 
+-Utilizo esse espaço para minha organizaçâo e compartilhamento dos meus projetos desinvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você entrar em contato comigo 💙
+
+00001114433034sp@al.educacao.sp.gov.br
+
+![](https://media.tenor.com/KTx1WW-lmfUAAAAi/peach-and-goma-peach-goma.gif)

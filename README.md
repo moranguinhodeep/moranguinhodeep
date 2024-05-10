@@ -1,9 +1,9 @@
 ### Bem vindos ao meu perfil, sou a Laís Aparecida💙
 
--Meu nome é Laís Aparecida 
+-Meu nome é Laís Aparecida 💙
 
 -Estou estudando na Alura 
-EStou me desinvolvendo na linguagem javascript 
+Estou me desinvolvendo na linguagem javascript 
 -Utilizo esse espaço para minha organizaçâo e compartilhamento dos meus projetos desinvolvidos 
 
 ### você entrar em contato comigo 💙
